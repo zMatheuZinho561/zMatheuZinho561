@@ -1,7 +1,7 @@
 ### Olá Seja bem-vindo(a) meu nome é Matheus Cardoso Dos Santos 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Eu estudo php
+- 🔭 Hoje estudo Back-end e Front-end, estou tentando ser Full Stack
+- 🌱 ?
 
 <div align="center">
   <a href="https://github.com/zMatheuZinho561">
