@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="./assets/cozy-header.gif" alt="Cozy pixel-art developer world" width="100%">
+<img src="./assets/cozy-header.gif" alt="Mundo pixel-art do desenvolvedor" width="100%">
 
 <br>
 
-### 🌱 Welcome to my little corner of the internet.
+### 🌱 Bem-vindo ao meu cantinho da internet.
 
-**Full Stack Developer · Builder · Problem Solver**
+**Desenvolvedor Full Stack · Criador · Solucionador de problemas**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
 ---
 
-## 🏡 About the Developer
+## 🏡 Sobre o Desenvolvedor
 
-> **Hi, I'm Matheus.**
+> **Oi, eu sou o Matheus.**
 >
-> I build web applications, systems and interfaces with a focus on
-> turning ideas into software that actually works.
+> Sou Desenvolvedor Full Stack e gosto de transformar ideias em
+> sistemas, aplicações web e interfaces que realmente funcionam.
 >
-> I enjoy learning by building, solving annoying bugs, improving
-> interfaces and shipping things that people can use.
+> Aprendo construindo, gosto de resolver problemas, caçar bugs,
+> melhorar interfaces e colocar projetos para rodar de verdade.
 
 <div align="center">
 
-`BUILD` · `LEARN` · `SHIP` · `REPEAT`
+`CONSTRUIR` · `APRENDER` · `ENVIAR` · `REPETIR`
 
 </div>
 
 ---
 
-## 🎒 Inventory
+## 🎒 Inventário
 
 <table>
 <tr>
@@ -51,7 +51,7 @@
 
 <tr>
 <td align="center"><b>🌐</b><br>HTML / CSS</td>
-<td align="center"><b>🔌</b><br>REST APIs</td>
+<td align="center"><b>🔌</b><br>APIs REST</td>
 <td align="center"><b>🐧</b><br>Linux</td>
 <td align="center"><b>🔧</b><br>Git</td>
 <td align="center"><b>🎨</b><br>UI / UX</td>
@@ -60,23 +60,23 @@
 
 ---
 
-## 📜 Current Quest
+## 📜 Missão Atual
 
 <table>
 <tr>
 
 <td width="75%">
 
-### 🛠️ Conforseg — System Evolution
+### 🛠️ Conforseg — Evolução do Sistema
 
-Building and improving a real-world web platform focused on
-occupational safety.
+Desenvolvimento e evolução de uma plataforma web voltada
+para gestão de segurança do trabalho.
 
-**Stack**
+**Tecnologias**
 
 `PHP` · `CakePHP` · `JavaScript` · `MySQL` · `Docker`
 
-**Status:** `IN PROGRESS`
+**Status:** `EM DESENVOLVIMENTO`
 
 </td>
 
@@ -84,7 +84,7 @@ occupational safety.
 
 🌱
 
-**GROWING**
+**CRESCENDO**
 
 </td>
 
@@ -93,7 +93,7 @@ occupational safety.
 
 ---
 
-## 🗺️ Project Board
+## 🗺️ Quadro de Projetos
 
 <table>
 
@@ -103,16 +103,16 @@ occupational safety.
 
 ### 🛡️ CONFORSEG
 
-**ACTIVE**
+**● ATIVO**
 
-A web platform for occupational safety management.
+Plataforma web para gestão de segurança do trabalho.
 
 - Dashboards
-- Questionnaires
-- Reports
-- Denunciation channel
-- Company & user management
-- Modern interfaces
+- Questionários
+- Relatórios
+- Canal de denúncias
+- Gestão de empresas e usuários
+- Interfaces modernas
 
 `PHP` `CakePHP` `JavaScript` `MySQL`
 
@@ -120,15 +120,14 @@ A web platform for occupational safety management.
 
 <td width="50%">
 
-### 🧪 EXPERIMENT LAB
+### 🧪 LABORATÓRIO DE EXPERIMENTOS
 
-**ONGOING**
+**● EM ANDAMENTO**
 
-A place for experiments, UI ideas,
-prototypes and whatever interesting
-problem shows up next.
+Espaço para experimentar ideias, criar interfaces,
+testar tecnologias e desenvolver protótipos.
 
-`WEB` `UI/UX` `APIs` `AUTOMATION`
+`WEB` `UI/UX` `APIs` `AUTOMAÇÃO`
 
 </td>
 
@@ -138,23 +137,30 @@ problem shows up next.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Conquistas
 
-| 🌱 | Achievement | Description |
+| 🌱 | Conquista | Descrição |
 |---|---|---|
-| 🏡 | **FIRST PROJECT** | Started building instead of only learning. |
-| 🐛 | **BUG HUNTER** | Survived bugs that had absolutely no business existing. |
-| 🚀 | **SHIPPED** | Turned an idea into working software. |
-| 🔥 | **PRODUCTION SURVIVOR** | Deployed code and lived to tell the story. |
+| 🏡 | **PRIMEIRO PROJETO** | Comecei a construir em vez de apenas estudar. |
+| 🐛 | **CAÇADOR DE BUGS** | Sobrevivi a bugs que não deveriam nem existir. |
+| 🚀 | **PROJETO NO AR** | Transformei uma ideia em software funcionando. |
+| 🔥 | **SOBREVIVENTE DE PRODUÇÃO** | Fiz deploy e sobrevivi para contar a história. |
 
 ---
 
-<div align="center">
+## 🌾 Registro da Jornada
 
-<img src="./assets/fireflies.gif" alt="Animated fireflies" width="100%">
+Cada projeto, bug, commit e madrugada faz parte da construção.
 
-### 🌅 Thanks for visiting.
-
-*See you on the next quest.*
-
-</div>
+```text
+🌱 Aprender
+   ↓
+🛠️ Construir
+   ↓
+🐛 Quebrar
+   ↓
+🔧 Consertar
+   ↓
+🚀 Publicar
+   ↓
+🌳 Evoluir
